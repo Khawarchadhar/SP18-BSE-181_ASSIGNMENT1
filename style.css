@@ -1,0 +1,30 @@
+#src{
+    
+    width: 20%;
+    align-items: center;
+    margin-right: 50rem;
+
+}
+#nd{
+
+    background-color: darkcyan;
+    
+}
+#nav{
+    background-color: darkcyan;
+}
+#card{
+    text-align: center;
+    align-items: center;
+}
+#jb{
+    text-align: center;
+    min-height: 10px;
+    
+    background-color: orange;
+}
+#mg{
+    
+
+    
+}
